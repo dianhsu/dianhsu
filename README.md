@@ -5,12 +5,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 September, 2020 - 19 September, 2020
+Week: 13 September, 2020 - 20 September, 2020
 
-Python       12 hrs 14 mins  █████████▓░░░░░░░░░░░░░░░   38.18 % 
-Vue.js       11 hrs 50 mins  █████████▒░░░░░░░░░░░░░░░   36.95 % 
-JavaScript   2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Other        1 hr 45 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-YAML         1 hr 30 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Python       12 hrs 36 mins  ████████▒░░░░░░░░░░░░░░░░   33.05 % 
+Vue.js       12 hrs 17 mins  ████████░░░░░░░░░░░░░░░░░   32.23 % 
+C++          3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+JavaScript   2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+YAML         2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 <!--END_SECTION:waka-->
