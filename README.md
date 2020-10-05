@@ -5,10 +5,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2020 - 03 October, 2020
+Week: 27 September, 2020 - 04 October, 2020
 
-C++       12 hrs 13 mins  ████████████████████████░   96.26 % 
-Verilog   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Other     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C++       9 hrs 10 mins   ███████████████████████▓░   95.07 % 
+Verilog   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
