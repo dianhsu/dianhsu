@@ -5,9 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-C++         5 hrs 56 mins   █████████████████████████   99.55 % 
-Markdown    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C++         3 hrs 15 mins   ████████████████████████▓   99.20 % 
+Markdown    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 <!--END_SECTION:waka-->
