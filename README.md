@@ -5,9 +5,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
-
-Verilog   5 mins          ██████████████████▒░░░░░░   73.10 % 
-Other     1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.90 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
