@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2020 - 07 November, 2020
+Week: 01 November, 2020 - 08 November, 2020
 
 C          57 mins         ███████████▒░░░░░░░░░░░░░   45.28 % 
 Markdown   24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.06 % 
