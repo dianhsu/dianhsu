@@ -5,9 +5,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 December, 2020 - 15 December, 2020
+Week: 09 December, 2020 - 16 December, 2020
 
-C       44 mins         ███████████████████▒░░░░░   77.15 % 
-C++     12 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.23 % 
+C++     1 hr 23 mins    █████████████████████████   99.47 % 
 ```
 <!--END_SECTION:waka-->
