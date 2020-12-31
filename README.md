@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2020 - 29 December, 2020
+Week: 23 December, 2020 - 30 December, 2020
 
 C++        44 mins         ████████████▓░░░░░░░░░░░░   50.08 % 
 Python     20 mins         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
