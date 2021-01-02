@@ -5,11 +5,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2020 - 31 December, 2020
+Week: 25 December, 2020 - 01 January, 2021
 
-C++        44 mins         ███████████████░░░░░░░░░░   60.21 % 
-Python     20 mins         ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-TeX        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Python     14 mins         ███████████████████▒░░░░░   77.06 % 
+Markdown   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 ```
 <!--END_SECTION:waka-->
