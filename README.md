@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
 C       26 mins         ████████████▒░░░░░░░░░░░░   49.34 % 
 C++     19 mins         █████████▒░░░░░░░░░░░░░░░   36.69 % 
