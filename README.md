@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2021 - 28 January, 2021
+Week: 22 January, 2021 - 29 January, 2021
 
 C++    20 mins         █████████▒░░░░░░░░░░░░░░░   37.09 % 
 Tcl    11 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
