@@ -13,3 +13,5 @@ C++        1 min           █▒░░░░░░░░░░░░░░░�
 INI        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 <!--END_SECTION:waka-->
+
+[![dianhsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianhsu)](https://github.com/anuraghazra/github-readme-stats)
