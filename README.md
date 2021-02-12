@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2021 - 10 February, 2021
+Week: 04 February, 2021 - 11 February, 2021
 
 Markdown   46 mins         ███████████▓░░░░░░░░░░░░░   46.88 % 
 Other      15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
