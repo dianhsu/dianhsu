@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
 Other       10 mins         ████████████████▓░░░░░░░░   67.17 % 
 Text        4 mins          ████████░░░░░░░░░░░░░░░░░   31.83 % 
