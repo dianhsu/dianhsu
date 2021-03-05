@@ -5,9 +5,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 February, 2021 - 03 March, 2021
+Week: 25 February, 2021 - 04 March, 2021
 
-
+Tcl     7 mins          ███████████▓░░░░░░░░░░░░░   46.18 % 
+Text    6 mins          ██████████░░░░░░░░░░░░░░░   39.50 % 
+C++     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 <!--END_SECTION:waka-->
 
