@@ -5,7 +5,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 April, 2021 - 14 April, 2021
+Week: 08 April, 2021 - 15 April, 2021
 
 C++        8 hrs           ████████████░░░░░░░░░░░░░   47.96 % 
 TeX        5 hrs 36 mins   ████████▒░░░░░░░░░░░░░░░░   33.65 % 
