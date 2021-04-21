@@ -2,7 +2,6 @@
 # dianhsu
 
 :stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye::stuck_out_tongue_winking_eye:
-ありがとうございます。
 
 <!--START_SECTION:waka-->
 ```text
