@@ -19,4 +19,5 @@ Kotlin     4 mins          ░░░░░░░░░░░░░░░░░�
 
 ---
 
-[![dianhsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianhsu)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/dianhsu"><img src="https://github-readme-stats.vercel.app/api?username=dianhsu&count_private=true" height="180" /></a> <a href="https://github.com/dianhsu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianhsu&langs_count=8&hide=html,css&layout=compact" height="180" /></a>
