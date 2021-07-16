@@ -7,13 +7,13 @@ Blog: [https://dianhsu.top](https://dianhsu.top)
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 July, 2021 - 14 July, 2021
+Week: 09 July, 2021 - 15 July, 2021
 
-C++        12 hrs 56 mins  ██████████████████████░░░   88.43 % 
-Markdown   1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Other      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JSON       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-LESS       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+C++        13 hrs 35 mins  █████████████████████░░░░   84.19 % 
+Markdown   2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Other      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JSON       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Text       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 <!--END_SECTION:waka-->
 
