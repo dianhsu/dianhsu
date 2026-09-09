@@ -36,8 +36,3 @@ the terminal.
 - [Building a comfortable competitive programming environment](https://www.dianhsu.com/2023/12/30/algorithm-env/)
 - [Exploring Dev Containers](https://www.dianhsu.com/2023/06/07/devcontainer/)
 - [Hiking in the Wugong Mountains](https://www.dianhsu.com/2025/09/02/wugong-mountains/)
-
-## Coding activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
